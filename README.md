@@ -25,5 +25,6 @@ PeerPulse is a **community-driven** app built with **Flutter**, exclusively for 
 ## Tech Stack 🛠  
 
 - **Frontend**: Flutter  
-- **Backend**: Firebase  
-- **Database**:Firestore
+- **Backend**:  Firebase  
+- **Database**: Firestore
+- **Language**: Dart
